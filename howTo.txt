@@ -1,0 +1,11 @@
+git remote add origin https://github.com/shivams596/eyedetect
+
+git add .
+
+git commit -m "first commit"
+
+git pull origin master
+git pull origin master --allow-unrelated-histories
+
+git push origin master
+
